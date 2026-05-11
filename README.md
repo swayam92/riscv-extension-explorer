@@ -235,12 +235,12 @@ python compare_extensions.py
 
 # Possible Future Improvements
 
-* Graph visualization of shared extensions
-* Unit tests for normalization logic
-* CLI interface with arguments
+* Interactive graph visualization
 * Export reports to CSV/JSON
+* Command-line argument support
 * Automated repository cloning
-* Better extension categorization
+* Pytest-based unit testing
+* Web dashboard for extension exploration
 
 ---
 
