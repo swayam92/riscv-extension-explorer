@@ -192,6 +192,18 @@ riscv-extension-explorer/
 
 ---
 
+
+# Requirements
+
+Install required libraries:
+
+```bash
+pip install networkx matplotlib
+```
+
+
+
+
 # How To Run
 
 ## Clone Repository
